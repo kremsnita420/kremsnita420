@@ -45,7 +45,7 @@
 <p align="left">
 <a href="https://portfolio-tailwind-sage.vercel.app/"><img src="https://img.shields.io/badge/-my_portfolio?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/safet-duranovic/"><img src="https://img.shields.io/badge/-SafetD?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:duranovic.safet@gmail.com"><img src="https://img.shields.io/badge/-duranovic.safet@gmail.com?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:duranovic.safet@gmail.com"><img src="https://img.shields.io/badge/-duranovicSafet?style=flat&logo=gmail&logoColor=white"/></a>
 
 </p>
 
