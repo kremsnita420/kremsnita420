@@ -1,20 +1,20 @@
-![Safet Duranovic Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Safet Duranovic Banner](https://media4.giphy.com/media/2PWBLDJ2KtB1X6o9vY/giphy.gif?cid=ecf05e47865f8bae4b2db60861fcfae754fe603f68387197&rid=giphy.gif&ct=g)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Safet Duranović</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Safet Duranović -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently learning React and Node.js.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💡 &nbsp;I like to explore new technologies and develop software solutions for common problems.\
+🎓 &nbsp;I'm currently learning MongoDB, Express, React and Node.js.\
+🌱 &nbsp;I'm on track to learn more about Fullstack Web Development.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and play with Figma.\
+💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can shoot me an email at duranovic.safet@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1JV2wak5avL-G5Uf8qF9FNxXtC9jqfKRd/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://drive.google.com/file/d/1atN15-KSR2YCO1y04KEAca5wXixQFviv/view?usp=sharing" align="right"/>
+<img alt="Night Coding" src="https://media4.giphy.com/media/2PWBLDJ2KtB1X6o9vY/giphy.gif?cid=ecf05e47865f8bae4b2db60861fcfae754fe603f68387197&rid=giphy.gif&ct=g" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
