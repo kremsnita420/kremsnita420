@@ -1,6 +1,6 @@
-![Safet Duranovic Banner](https://media4.giphy.com/media/2PWBLDJ2KtB1X6o9vY/giphy.gif?cid=ecf05e47865f8bae4b2db60861fcfae754fe603f68387197&rid=giphy.gif&ct=g)
+![Safet Duranovic Banner](https://media0.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47atgy6tpjimrdg7n32g3jymwfhi3ydjz68cmds996&rid=giphy.gif&ct=g)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Safet Duranović</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Safet Duranović</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Safet Duranović -->
 
