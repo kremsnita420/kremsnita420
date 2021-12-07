@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://media0.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47atgy6tpjimrdg7n32g3jymwfhi3ydjz68cmds996&rid=giphy.gif&ct=g" width='1000' height="500" align="center"/>
+<img alt="Night Coding" src="https://media0.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47atgy6tpjimrdg7n32g3jymwfhi3ydjz68cmds996&rid=giphy.gif&ct=g" width='1000' height="500" align="center" object-fit="cover"/>
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif?cid=ecf05e47y65qhsu64puyd68q1e3po3rhdn3km27cbghokujx&rid=giphy.gif&ct=s" width='100' align="center"/><h2>Hey there! I'm Safet Duranović</h2>
 
