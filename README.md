@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
-![StrapiCMS](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)&nbsp;
+![StrapiCMS](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)&nbsp;\
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui&)
 ![StyledComponents](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styledcomponents)
