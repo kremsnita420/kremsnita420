@@ -55,6 +55,5 @@
 </p>
 
 -----
-Credits: [Safet Duranovic](https://github.com/kremsnita420)
 
 Last Edited on: 7/12/2021
