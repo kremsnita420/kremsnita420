@@ -12,7 +12,7 @@
 ✍️ &nbsp;When I'm not coding, I pursue Graphic Design and play with Figma.\
 💬 &nbsp;Feel free to reach out to me.\
 ✉️ &nbsp;You can send me an email at duranovic.safet@gmail.com.\
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1JV2wak5avL-G5Uf8qF9FNxXtC9jqfKRd/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1bZW3APymGqEtAAC5W3n6TtyZyBX3vX8H/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://media4.giphy.com/media/2PWBLDJ2KtB1X6o9vY/giphy.gif?cid=ecf05e47865f8bae4b2db60861fcfae754fe603f68387197&rid=giphy.gif&ct=g" align="right"/>
 
